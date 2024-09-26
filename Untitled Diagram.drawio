@@ -1,120 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2410" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4832" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-0" target="HIrjXlR3BVrKwoBECTqW-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-4" target="HIrjXlR3BVrKwoBECTqW-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-0" value="Load BIke Price Data into Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="170" width="126" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-1" target="HIrjXlR3BVrKwoBECTqW-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-1" value="Tell the program that Normal Mode is on." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241.5" y="220" width="231" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-3" target="HIrjXlR3BVrKwoBECTqW-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-3" value="Tell the program that Passcodes are not loaded" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241.5" y="260" width="231" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-4" target="HIrjXlR3BVrKwoBECTqW-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-4" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tell the Program to&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;run continuously&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(while True)&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-4" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tell the Program to&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;run continuously&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(while True)&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="271" y="320" width="172" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-8" target="HIrjXlR3BVrKwoBECTqW-10">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-8" target="HIrjXlR3BVrKwoBECTqW-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-8" value="Tell the program that Normal Mode Menu is not loaded" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241.5" y="450" width="231" height="30" as="geometry" />
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-8" value="Load the Normal Mode Menu" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="241.5" y="500" width="231" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-10" target="HIrjXlR3BVrKwoBECTqW-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-10" target="HIrjXlR3BVrKwoBECTqW-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;while Normal Mode is on&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="297.5" y="510" width="119" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-15" target="HIrjXlR3BVrKwoBECTqW-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-15">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-10" target="HIrjXlR3BVrKwoBECTqW-115" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359" y="820" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="685" />
-              <mxPoint x="220" y="800" />
-              <mxPoint x="359" y="800" />
+              <mxPoint x="490" y="680" />
+              <mxPoint x="490" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-15" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;if Normal Mode Menu &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;not loaded&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="279.5" y="640" width="159" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359" y="820" as="targetPoint" />
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-124" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIrjXlR3BVrKwoBECTqW-116">
+          <mxGeometry x="-0.9171" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-17" value="Load the Menu and tell the program that the menu has been loaded" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="243.5" y="750" width="231" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-85" target="HIrjXlR3BVrKwoBECTqW-86">
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-10" target="HIrjXlR3BVrKwoBECTqW-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-85" target="HIrjXlR3BVrKwoBECTqW-88">
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-97" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-6">
+          <mxGeometry x="-0.6037" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;while Normal Mode is on&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="297.5" y="635" width="119" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-85" target="HIrjXlR3BVrKwoBECTqW-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-85" value="If Passcode Manager access code is entered" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-85" target="HIrjXlR3BVrKwoBECTqW-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-85" value="If Passcode Manager access code is entered" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-611.5" y="415" width="301" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-86" value="Tell the Program that Normal Mode is off" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-86" value="Tell the Program that Normal Mode is off" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-576.5" y="525" width="231" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-88" target="HIrjXlR3BVrKwoBECTqW-91">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-88" target="HIrjXlR3BVrKwoBECTqW-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-88" value="Checks if the input is a valid bike number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-88" value="Checks if the input is a valid bike number" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-850" y="525" width="231" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-91" target="HIrjXlR3BVrKwoBECTqW-92">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-91" target="HIrjXlR3BVrKwoBECTqW-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-91" target="HIrjXlR3BVrKwoBECTqW-93">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-91" target="HIrjXlR3BVrKwoBECTqW-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-91" value="If the input is valid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-91" value="If the input is valid" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-799.5" y="585" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-92" value="Output the rental rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-92" value="Output the rental rate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-850" y="685" width="231" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-93" value="Output that the user " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-93" value="Output that the user " style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1100" y="685" width="231" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-95" target="HIrjXlR3BVrKwoBECTqW-98">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-95" target="HIrjXlR3BVrKwoBECTqW-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-95" target="HIrjXlR3BVrKwoBECTqW-10">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-95" target="HIrjXlR3BVrKwoBECTqW-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="900" />
-              <mxPoint x="140" y="555" />
+              <mxPoint x="140" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-95" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Run a function that asks user for input,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;return true if that input is the passcode,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;else validate if the input is a valid bike number,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;else ask the user for the input again.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;If the function returns&lt;b&gt; true&lt;/b&gt;:&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="182" y="820" width="354" height="160" as="geometry" />
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-95" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Run a function that asks user for input,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;return &lt;/b&gt;true if that input is the passcode,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;else &lt;/b&gt;validate if the input is a valid bike number,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;else &lt;/b&gt;ask the user for the input again.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;If the function returns&lt;b&gt; true&lt;/b&gt;:&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="820" width="354" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="HIrjXlR3BVrKwoBECTqW-10">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="HIrjXlR3BVrKwoBECTqW-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="279.98" y="555" as="targetPoint" />
             <mxPoint x="338.98" y="1025" as="sourcePoint" />
@@ -122,15 +95,334 @@
               <mxPoint x="360" y="1025" />
               <mxPoint x="360" y="1045" />
               <mxPoint x="140" y="1045" />
-              <mxPoint x="140" y="555" />
+              <mxPoint x="140" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-98" value="Tell the program that Normal Mode is off" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-98" value="Tell the program that Normal Mode is off" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="243.5" y="1000" width="231" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HIrjXlR3BVrKwoBECTqW-115" value="Load Encrypted Passcode Data into Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="540" width="150" height="30" as="geometry" />
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HIrjXlR3BVrKwoBECTqW-115" target="fzmt7UQQ4SGqhCcK_248-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIrjXlR3BVrKwoBECTqW-115" value="Load Encrypted Passcode Data into Memory" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="780" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-1" target="fzmt7UQQ4SGqhCcK_248-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-1" target="HIrjXlR3BVrKwoBECTqW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1830" y="325" />
+              <mxPoint x="1830" y="1370" />
+              <mxPoint x="80" y="1370" />
+              <mxPoint x="80" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;while Normal Mode is off&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1046" y="280" width="119" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-4" target="fzmt7UQQ4SGqhCcK_248-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1106" y="450" />
+              <mxPoint x="1730" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-4" value="&lt;div&gt;Ask user to input their option until&amp;nbsp;&lt;/div&gt;&lt;div&gt;they enter a valid option (a number from 1 to 6)&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="956.81" y="395" width="297.37" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-7" target="fzmt7UQQ4SGqhCcK_248-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-7" value="Load the Passcode Manager Menu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="989.99" y="205" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-10" target="fzmt7UQQ4SGqhCcK_248-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-102" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-13">
+          <mxGeometry x="0.0072" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-10" target="fzmt7UQQ4SGqhCcK_248-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-103" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-25">
+          <mxGeometry x="-0.5098" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-10" value="if option is 1&lt;br&gt;(view)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1680" y="475" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-12" target="fzmt7UQQ4SGqhCcK_248-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-101" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-18">
+          <mxGeometry x="-0.5405" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-12" target="fzmt7UQQ4SGqhCcK_248-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-104" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-31">
+          <mxGeometry x="-0.2647" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-12" value="if option is 2&lt;br&gt;(update)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1476.8899999999999" y="475" width="95.41" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-14" target="fzmt7UQQ4SGqhCcK_248-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-98" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-19">
+          <mxGeometry x="-0.0347" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-14" target="fzmt7UQQ4SGqhCcK_248-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-105" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-35">
+          <mxGeometry x="-0.6177" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-14" value="if option is 3&lt;br&gt;(create)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1282.5" y="475" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-15" target="fzmt7UQQ4SGqhCcK_248-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-106" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-40">
+          <mxGeometry x="-0.3824" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-15" target="fzmt7UQQ4SGqhCcK_248-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-99" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-44">
+          <mxGeometry x="0.1751" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-15" value="if option is 4&lt;br&gt;(delete)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1097.24" y="475" width="101.84" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-16" target="fzmt7UQQ4SGqhCcK_248-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-107" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-66">
+          <mxGeometry x="-0.3824" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-16" target="fzmt7UQQ4SGqhCcK_248-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-16" value="&lt;div&gt;if option is 5&lt;/div&gt;&lt;div&gt;(change access code)&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="878.41" y="475" width="103.19" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-22" target="fzmt7UQQ4SGqhCcK_248-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1730" y="1280" />
+              <mxPoint x="540" y="1280" />
+              <mxPoint x="540" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-22" value="Function to enter a bike number and view its passcode" style="rounded=1;whiteSpace=wrap;html=1;shape=process;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1660" y="605" width="140" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-27" target="fzmt7UQQ4SGqhCcK_248-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-27" value="Function to enter a bike number, validate that it is a number and it exists, and &lt;b&gt;update&lt;/b&gt; its passcode&lt;b&gt; &lt;/b&gt;in&lt;b&gt; &lt;/b&gt;the database. &lt;b&gt;Return&lt;/b&gt; the bike&#39;s number and new passcode " style="rounded=1;whiteSpace=wrap;html=1;shape=process;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1439.18" y="595" width="170.82" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-29" target="fzmt7UQQ4SGqhCcK_248-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1525" y="1280" />
+              <mxPoint x="540" y="1280" />
+              <mxPoint x="540" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-29" value="Update the bike passcode into the working memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1449.18" y="735" width="150.82" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-34" target="fzmt7UQQ4SGqhCcK_248-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-34" value="Function to enter a bike number, validate that is a number and not exist, then enter a 4 digit number passcode and&amp;nbsp;&lt;b&gt;add&lt;/b&gt; them into the database. &lt;b&gt;Return&lt;/b&gt; the new bike&#39;s number and passcode   " style="rounded=1;whiteSpace=wrap;html=1;shape=process;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1247.62" y="595" width="174.75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-36" target="fzmt7UQQ4SGqhCcK_248-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1335" y="1280" />
+              <mxPoint x="540" y="1280" />
+              <mxPoint x="540" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-36" value="Add the new bike number and passcode into the working memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260.5" y="755" width="149" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1144.0849999999996" y="765" as="sourcePoint" />
+            <mxPoint x="1140.9299999999998" y="785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-39" target="fzmt7UQQ4SGqhCcK_248-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-39" value="Function to enter a bike number, validate that it is a number and it exists, then &lt;b&gt;delete&lt;/b&gt; the number and its passcode from the database. &lt;b&gt;Return&lt;/b&gt; the deleted bike number.  " style="rounded=1;whiteSpace=wrap;html=1;shape=process;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1060" y="595" width="176.31" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-42" target="fzmt7UQQ4SGqhCcK_248-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1145" y="1280" />
+              <mxPoint x="540" y="1280" />
+              <mxPoint x="540" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-42" value="Remove the number and its passcode from the working memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070.5" y="735" width="149" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-51" value="Function ask the user to &lt;b&gt;input&lt;/b&gt; the current access code.&lt;b&gt; If&lt;/b&gt; the user enters the incorrect code 3 times, &lt;b&gt;return &lt;/b&gt;True, &lt;b&gt;else &lt;/b&gt;ask for &lt;b&gt;input&lt;/b&gt; of a new passcode twice to validate it, &lt;b&gt;write&lt;/b&gt; the new access code into the &lt;b&gt;encrypted &lt;/b&gt;access code data text file then &lt;b&gt;return &lt;/b&gt;the new access code." style="rounded=1;whiteSpace=wrap;html=1;shape=process;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="815" y="595" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-67" target="fzmt7UQQ4SGqhCcK_248-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-96" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzmt7UQQ4SGqhCcK_248-70">
+          <mxGeometry x="0.0146" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-133" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-67" target="fzmt7UQQ4SGqhCcK_248-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-67" value="&lt;div&gt;if function&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;returns&lt;/b&gt; True&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870.01" y="786" width="120" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-69" target="fzmt7UQQ4SGqhCcK_248-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1052" y="1280" />
+              <mxPoint x="540" y="1280" />
+              <mxPoint x="540" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-69" value="Tell the program that Normal Mode is on." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="945" width="149" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.118;exitY=1.009;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-76" target="fzmt7UQQ4SGqhCcK_248-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-74" target="fzmt7UQQ4SGqhCcK_248-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="915" />
+              <mxPoint x="810" y="1120" />
+              <mxPoint x="720" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-74" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660.01" y="880" width="130" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-76" value="for every pair of bike number and passcode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675.01" y="900.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-78" target="fzmt7UQQ4SGqhCcK_248-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-78" value="decrypt the passcode using the old access cold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650.51" y="970" width="149" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-79" target="fzmt7UQQ4SGqhCcK_248-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725.01" y="1110" />
+              <mxPoint x="630.01" y="1110" />
+              <mxPoint x="630.01" y="916" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-79" value="encrypt the passcode using the new access cold and add them to the working memory and new data." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650.51" y="1030" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-82" target="fzmt7UQQ4SGqhCcK_248-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="1280" />
+              <mxPoint x="540" y="1280" />
+              <mxPoint x="540" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-82" value="&lt;div&gt;&lt;b&gt;write &lt;/b&gt;new data into the bike passcode database &lt;br&gt;&lt;/div&gt;&lt;div&gt;and update raw passcode data in working memory&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="639.42" y="1140" width="160.58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-83" target="fzmt7UQQ4SGqhCcK_248-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-83" value="create an empty list called new data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650.51" y="810" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.491;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-51" target="fzmt7UQQ4SGqhCcK_248-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-128" target="fzmt7UQQ4SGqhCcK_248-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="526" />
+              <mxPoint x="540" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-128" value="Tell the program that Normal Mode is on." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="500" width="149" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-139" target="fzmt7UQQ4SGqhCcK_248-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-139" value="Load Bike Price Data into Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="115" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-141" target="fzmt7UQQ4SGqhCcK_248-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-141" value="Tell the program that Normal Mode is on." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241.5" y="165" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-142" target="fzmt7UQQ4SGqhCcK_248-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-142" value="Tell the program that Passcodes are not loaded" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241.5" y="205" width="231" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fzmt7UQQ4SGqhCcK_248-143" target="HIrjXlR3BVrKwoBECTqW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzmt7UQQ4SGqhCcK_248-143" value="Load hash of the Access Code into Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="272.75" y="250" width="168.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
